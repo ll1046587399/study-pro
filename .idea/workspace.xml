@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ff2337b-1cd6-418c-875f-4d543cc56edc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sxiklCTsGZRtWf9eHj2FY9YJtD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.FindFirstAndLastPositionOfElementInSortedArray">
+    <configuration name="FindFirstAndLastPositionOfElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lei.leetcode.editor.cn.FindFirstAndLastPositionOfElementInSortedArray" />
+      <module name="study-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lei.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lei.leetcode.editor.cn.ListNode" />
+      <module name="study-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lei.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lei.leetcode.editor.cn.ReverseLinkedList" />
+      <module name="study-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lei.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.lei.leetcode.editor.cn.TwoSum" />
+      <module name="study-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lei.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lei.leetcode.editor.cn.ValidAnagram" />
+      <module name="study-pro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lei.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindFirstAndLastPositionOfElementInSortedArray" />
+        <item itemvalue="Application.ListNode" />
+        <item itemvalue="Application.ValidAnagram" />
+        <item itemvalue="Application.ReverseLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ff2337b-1cd6-418c-875f-4d543cc56edc" name="Default Changelist" comment="" />
+      <created>1621820787712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621820787712</updated>
+      <workItem from="1621820795941" duration="1440000" />
+      <workItem from="1621822786562" duration="2963000" />
+      <workItem from="1622081769420" duration="10343000" />
+      <workItem from="1622099109001" duration="9028000" />
+      <workItem from="1623721436945" duration="12982000" />
+      <workItem from="1623895150362" duration="13751000" />
+      <workItem from="1624003550999" duration="6735000" />
+      <workItem from="1624611024269" duration="6592000" />
+      <workItem from="1624865566735" duration="1260000" />
+      <workItem from="1625478133791" duration="1428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="119" key="#TwoSum" timestamp="1621825341300">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="765" y="119" key="#TwoSum/0.0.1600.860@0.0.1600.860" timestamp="1621825341300" />
+    <state x="493" y="85" key="#TwoSum_(1)" timestamp="1621825272190">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="493" y="85" key="#TwoSum_(1)/0.0.1600.860@0.0.1600.860" timestamp="1621825272190" />
+    <state x="254" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622099388231">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1622099388231" />
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622100816778">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1622100816778" />
+    <state x="964" y="322" key="FileChooserDialogImpl" timestamp="1625479574089">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="964" y="322" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1625479574089" />
+    <state width="795" height="201" key="GridCell.Tab.0.bottom" timestamp="1624010294590">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624010294590" />
+    <state width="795" height="201" key="GridCell.Tab.0.center" timestamp="1624010294590">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1624010294590" />
+    <state width="795" height="201" key="GridCell.Tab.0.left" timestamp="1624010294590">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1624010294590" />
+    <state width="795" height="201" key="GridCell.Tab.0.right" timestamp="1624010294590">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1624010294590" />
+    <state width="795" height="201" key="GridCell.Tab.1.bottom" timestamp="1624010294591">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1624010294591" />
+    <state width="795" height="201" key="GridCell.Tab.1.center" timestamp="1624010294591">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1624010294591" />
+    <state width="795" height="201" key="GridCell.Tab.1.left" timestamp="1624010294590">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1624010294590" />
+    <state width="795" height="201" key="GridCell.Tab.1.right" timestamp="1624010294591">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="795" height="201" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1624010294591" />
+    <state x="7" y="31" width="1530" height="739" key="SettingsEditor" timestamp="1625479565027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="7" y="31" width="1530" height="739" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1625479565027" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1621821023031">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1621821023031" />
+    <state x="395" y="151" key="Vcs.Push.Dialog.v2" timestamp="1625479620770">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="395" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1625479620770" />
+    <state x="485" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1621822791974">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="485" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1621822791974" />
+    <state x="476" y="37" width="647" height="786" key="find.popup" timestamp="1623737675436">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="37" width="647" height="786" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1623737675436" />
+    <state x="456" y="190" key="run.anything.popup" timestamp="1623919724426">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="190" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1623919724426" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1623737629562">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1623737629562" />
+    <state x="633" y="209" key="svn.repositoryBrowser" timestamp="1625478734171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="633" y="209" key="svn.repositoryBrowser/0.0.1600.860@0.0.1600.860" timestamp="1625478734171" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lei/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tail.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

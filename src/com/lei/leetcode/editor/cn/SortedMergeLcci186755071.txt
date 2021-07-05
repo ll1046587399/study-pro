@@ -1,0 +1,25 @@
+class Solution {
+    public void merge(int[] A, int m, int[] B, int n) {
+        int pm = m-1;
+        int pn = n-1;
+        while(pm >= 0 || pn >= 0){
+            if(pm < 0){
+                A[pn] = B[pn];
+                pn--;
+            }else if(pn < 0){
+                break;
+            }else if(A[pm] > B[pn]){
+                A[pm+pn+1] = A[pm];
+                pm--;
+            }else{
+                A[pm+pn+1] = B[pn];
+                pn--;
+            }
+        }
+
+
+    }
+}
+
+//runtime:0 ms
+//memory:38.4 MB
