@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff2337b-1cd6-418c-875f-4d543cc56edc" name="Default Changelist" comment="" />
+    <list default="true" id="8ff2337b-1cd6-418c-875f-4d543cc56edc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\idea\workspace\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1sxiklCTsGZRtWf9eHj2FY9YJtD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -152,12 +162,24 @@
       <workItem from="1624003550999" duration="6735000" />
       <workItem from="1624611024269" duration="6592000" />
       <workItem from="1624865566735" duration="1260000" />
-      <workItem from="1625478133791" duration="1428000" />
+      <workItem from="1625478133791" duration="1712000" />
     </task>
+    <task id="LOCAL-00001" summary="..">
+      <created>1625479774290</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625479774291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <option name="LAST_COMMIT_MESSAGE" value=".." />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="119" key="#TwoSum" timestamp="1621825341300">
@@ -176,6 +198,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1622100816778" />
+    <state x="134" y="12" key="CommitChangelistDialog2" timestamp="1625479767446">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="134" y="12" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1625479767446" />
     <state x="964" y="322" key="FileChooserDialogImpl" timestamp="1625479574089">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -220,10 +246,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1621821023031" />
-    <state x="395" y="151" key="Vcs.Push.Dialog.v2" timestamp="1625479620770">
+    <state x="395" y="151" key="Vcs.Push.Dialog.v2" timestamp="1625479877910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="395" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1625479620770" />
+    <state x="395" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1625479877910" />
     <state x="485" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1621822791974">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -232,6 +258,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="476" y="37" width="647" height="786" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1623737675436" />
+    <state x="548" y="221" key="git4idea.merge.GitPullDialog" timestamp="1625479897016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="548" y="221" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1625479897016" />
     <state x="456" y="190" key="run.anything.popup" timestamp="1623919724426">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
