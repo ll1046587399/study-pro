@@ -162,7 +162,7 @@
       <workItem from="1624003550999" duration="6735000" />
       <workItem from="1624611024269" duration="6592000" />
       <workItem from="1624865566735" duration="1260000" />
-      <workItem from="1625478133791" duration="1712000" />
+      <workItem from="1625478133791" duration="2478000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1625479774290</created>
@@ -171,11 +171,54 @@
       <option name="project" value="LOCAL" />
       <updated>1625479774291</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="..">
+      <created>1625479944018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625479944018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=".." />
@@ -198,14 +241,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1622100816778" />
-    <state x="134" y="12" key="CommitChangelistDialog2" timestamp="1625479767446">
+    <state x="134" y="12" key="CommitChangelistDialog2" timestamp="1625479940964">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="134" y="12" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1625479767446" />
-    <state x="964" y="322" key="FileChooserDialogImpl" timestamp="1625479574089">
+    <state x="134" y="12" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1625479940964" />
+    <state x="164" y="122" width="1200" height="620" key="DiffContextDialog" timestamp="1625480021055">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="964" y="322" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1625479574089" />
+    <state x="164" y="122" width="1200" height="620" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1625480021055" />
+    <state x="964" y="322" key="FileChooserDialogImpl" timestamp="1625480693520">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="964" y="322" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1625480693520" />
+    <state x="573" y="326" key="Github.CreateGistDialog" timestamp="1625480017272">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="573" y="326" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1625480017272" />
     <state width="795" height="201" key="GridCell.Tab.0.bottom" timestamp="1624010294590">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -238,18 +289,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="795" height="201" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1624010294591" />
-    <state x="7" y="31" width="1530" height="739" key="SettingsEditor" timestamp="1625479565027">
+    <state x="7" y="31" width="1530" height="739" key="SettingsEditor" timestamp="1625480610842">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="7" y="31" width="1530" height="739" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1625479565027" />
+    <state x="7" y="31" width="1530" height="739" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1625480610842" />
     <state width="498" height="398" key="SwitcherDM" timestamp="1621821023031">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1621821023031" />
-    <state x="395" y="151" key="Vcs.Push.Dialog.v2" timestamp="1625479877910">
+    <state x="395" y="151" key="Vcs.Push.Dialog.v2" timestamp="1625480721743">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="395" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1625479877910" />
+    <state x="395" y="151" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1625480721743" />
     <state x="485" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1621822791974">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -258,10 +309,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="476" y="37" width="647" height="786" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1623737675436" />
-    <state x="548" y="221" key="git4idea.merge.GitPullDialog" timestamp="1625479897016">
+    <state x="548" y="221" key="git4idea.merge.GitPullDialog" timestamp="1625480106791">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="548" y="221" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1625479897016" />
+    <state x="548" y="221" key="git4idea.merge.GitPullDialog/0.0.1600.860@0.0.1600.860" timestamp="1625480106791" />
     <state x="456" y="190" key="run.anything.popup" timestamp="1623919724426">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
